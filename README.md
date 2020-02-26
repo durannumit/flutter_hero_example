@@ -1,16 +1,21 @@
-# shared_element_example
+<h1 align="center">Flutter Hero Widget</h1>
 
-A new Flutter application.
+<div align="center">
 
-## Getting Started
+An example of shared element with using Hero widget in Flutter.
 
-This project is a starting point for a Flutter application.
+[![Follow on Twitter](https://img.shields.io/twitter/follow/flutterist?label=Follow%20flutterist)](https://twitter.com/flutterist)
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## ScreenRecording
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/13484562/75334294-a1243780-5898-11ea-856d-924d0acfd461.gif" height = "550px">
+
+## Contributing
+
+All contributions are welcome
+
+## License
+
+This project is licensed under the terms of the [MIT license](/LICENSE).
